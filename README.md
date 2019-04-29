@@ -1,6 +1,5 @@
 # NFL-2019-Post-Draft
 NFL 2019 Post-Draft
-
 Baltimore Ravens, BAL
 OL,Bradley Bozeman,24,2018,64,60,82,80,74,72,0.6,4
 OL,Hroniss Grasu,27,2015,64,74,83,78,72,69,0.8,1
